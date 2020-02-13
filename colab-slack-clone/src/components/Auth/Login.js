@@ -59,7 +59,7 @@ function Login() {
           </Segment>
         </Form>
         <Message>
-          New to CoLAB? <Link to="/register">Login</Link>
+          New to CoLAB? <Link to="/register">Register</Link>
         </Message>
       </Grid.Column>
     </Grid>
